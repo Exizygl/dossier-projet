@@ -11,6 +11,13 @@ Le dossier sera présenté au jury afin qu'il puisse s'informer et connaître to
 Le but de ce dossier est de mettre en évidence :
 
 - La liste des compétences mises en œuvre dans le cadre du projet, validant les compétences professionnelles listées dans le REAC CDA.
+    - Analyser les besoins d’un client ou utilisateur
+    - Concevoir une application multicouche sécurisée
+    - Développer des interfaces utilisateurs et des composants métier
+    - Gérer les accès aux données SQL / NoSQL
+    - Implémenter des tests unitaires, d’intégration et de sécurité
+    - Déployer l’application dans un environnement de production
+    - Automatiser les processus CI/CD dans une démarche DevOps
 - L’expression des besoins du projet.
 - L’environnement technique utilisé pour le projet.
 - Les réalisations permettant la mise en œuvre des compétences.
